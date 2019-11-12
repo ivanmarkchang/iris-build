@@ -7,13 +7,16 @@ Resources
 - [u/LurkerMcNoPost's Endgame Iris Build](https://www.reddit.com/r/MechanicalKeyboards/comments/9u3mfu/my_first_build_endgame_iris/)
 - [Keycap Profile Guide](https://mechlab.cc/a-guide-to-keycap-profiles/)
 
-Parts List
+Parts List (confirmed)
 ----------
 - [Set of Iris Rev. 4 PCBs](https://keeb.io/collections/split-keyboard-parts/products/iris-keyboard-split-ergonomic-keyboard?variant=29480467267678) - $59.99
 - Iris case/plates (exploring options below)
 - [1 TRRS cable](https://keeb.io/products/trrs-cable?variant=50550149190) - $3.99
 - [54-56 switches](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $3.90/10 switches, $23.40/60 switches
-- 54-56 keycaps - see options below
+- 54-56 keycaps - [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) - $38
+- Soldering iron
+- Solder
+- Flush cutters
 
 ### Optional Parts
 - 2u PCB mount MX stabilizers if using 2u keys
