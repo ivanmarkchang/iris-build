@@ -5,6 +5,7 @@ Resources
 ---------
 - [Build guide (Keebio)](https://docs.keeb.io/iris-rev3-build-guide/)
 - [u/LurkerMcNoPost's Endgame Iris Build](https://www.reddit.com/r/MechanicalKeyboards/comments/9u3mfu/my_first_build_endgame_iris/)
+- [Keycap Profile Guide](https://mechlab.cc/a-guide-to-keycap-profiles/)
 
 Parts List
 ----------
