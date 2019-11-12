@@ -20,16 +20,22 @@ Parts List
 
 Case/Plates Options
 -------------------
+- [Keebio Stainless Steel Case](https://keeb.io/products/iris-keyboard-case-plates?variant=1822271012894) - $44.99
+- [Keebio Acrylic Clear Case](https://keeb.io/products/iris-keyboard-case-plates?variant=2991652831262) - $24.99
 
 Middle Layer Options
 --------------------
 - [u/LurkerMcNoPost designed, compatible with ErgoDox tenting legs](https://www.thingiverse.com/thing:3196585)
-- [Keebio Stainless Steel](https://keeb.io/products/iris-keyboard-case-plates?variant=1822271012894) - $44.99
-- [Keebio Acrylic Clear](https://keeb.io/products/iris-keyboard-case-plates?variant=2991652831262) - $24.99
+
+Tenting Options
+---------------
+- [ErgoDox-EZ Tilt/Tent Kit](https://ergodox-ez.com/products/tilt-tent-kit?variant=16101844419) - $40 (shipping included)
 
 Custom 3D printing Options
 --------------------------
 - [Shapeways](https://www.shapeways.com/)
+- [Laserboost](https://www.laserboost.com/)
+- Sculpteo
 
 QMK Configurator (Iris)
 -----------------------
