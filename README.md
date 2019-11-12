@@ -13,7 +13,7 @@ Parts List
 - [1 TRRS cable](https://keeb.io/products/trrs-cable?variant=50550149190) - $3.99
 - [54-56 switches](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $3.90/10 switches, $23.40/60 switches
 
-###Optional Parts
+### Optional Parts
 - 2u PCB mount MX stabilizers if using 2u keys
 - Rotary Encoder and Knob
 - Iris Middle Layer
