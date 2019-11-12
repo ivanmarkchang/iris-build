@@ -13,7 +13,7 @@ Parts List
 - Iris case/plates (exploring options below)
 - [1 TRRS cable](https://keeb.io/products/trrs-cable?variant=50550149190) - $3.99
 - [54-56 switches](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $3.90/10 switches, $23.40/60 switches
-- [54-56 keycaps](https://www.amazon.com/dp/B07F6FRCW5/ref=twister_B07F6B9HQT?_encoding=UTF8&psc=1) - $43.50
+- 54-56 keycaps - see options below
 
 ### Optional Parts
 - 2u PCB mount MX stabilizers if using 2u keys
@@ -32,6 +32,11 @@ Middle Layer Options
 Tenting Options
 ---------------
 - [ErgoDox-EZ Tilt/Tent Kit](https://ergodox-ez.com/products/tilt-tent-kit?variant=16101844419) - $40 (shipping included)
+
+Keycaps Options
+---------------
+- [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) - $38
+- [Amazon DSA](https://www.amazon.com/dp/B07F6FRCW5/ref=twister_B07F6B9HQT?_encoding=UTF8&psc=1) - $43.50
 
 Custom 3D printing Options
 --------------------------
