@@ -22,7 +22,7 @@ Parts List
 | 1 | TRRS cable | [Keebio](https://keeb.io/products/trrs-cable?variant=50550149190) | $3.99 |
 | 1 | USB-C cable | already owned | N/A |
 | 54-56 | Switches | [KBDFans Cherry MX Brown](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) | $23.40 |
-| 54-56 | Keycaps | [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) | $38 |
+| 54-56 | Keycaps | [KBDFans PBT Blanks](https://kbdfans.com/products/epbt-pbt-blank-ortholinear-keycaps) | $19.90 |
 
 ### Soldering
 | Quantity | Item | Seller/Link | Price |
