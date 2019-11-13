@@ -18,7 +18,7 @@ Parts List
 - 54-56 keycaps - [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) - $38
 
 | Item | Seller/Link | Price |
-| --- | --- |
+| --- | --- | --- |
 | Set of Iris Rev. 4 PCBs | [Keebio](https://keeb.io/collections/split-keyboard-parts/products/iris-keyboard-split-ergonomic-keyboard?variant=29480467267678) | $59.99 |
 | Iris case/plates | see options below | N/A |
 | M2 Screws/Standoffs | [Keebio](https://keeb.io/products/m2-screws-and-standoffs?variant=47432051590) | $3.49 |
