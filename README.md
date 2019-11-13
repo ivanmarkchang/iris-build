@@ -13,7 +13,7 @@ Parts List
 | Item | Seller/Link | Price |
 | --- | --- | --- |
 | Set of Iris Rev. 4 PCBs | [Keebio](https://keeb.io/collections/split-keyboard-parts/products/iris-keyboard-split-ergonomic-keyboard?variant=29480467267678) | $59.99 |
-| Iris case/plates | see options below | N/A |
+| Iris case/plates | *see options below* | N/A |
 | M2 Screws/Standoffs | [Keebio](https://keeb.io/products/m2-screws-and-standoffs?variant=47432051590) | $3.49 |
 | 1 TRRS cable | [Keebio](https://keeb.io/products/trrs-cable?variant=50550149190) | $3.99 |
 | 54-56 switches | [KBDFans Cherry MX Brown](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) | $23.40 for 60 switches |
