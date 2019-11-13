@@ -65,3 +65,7 @@ Custom 3D printing Options
 QMK Configurator (Iris)
 -----------------------
 https://github.com/cassidoo/iris-keyboard-layout
+
+Tips
+----
+soldering .031 60/40, recommended temp is 300C
