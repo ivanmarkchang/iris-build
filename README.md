@@ -20,12 +20,12 @@ Parts List
 | 54-56 keycaps | [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) | $38 |
 
 ### Soldering
-- [Soldering iron](https://www.amazon.com/dp/B01B4FELB8/ref=as_li_ss_tl?_encoding=UTF8&linkCode=ll1&tag=keebio-20&linkId=49e1e9c1eb856bd709ea5f667885190e&language=en_US) - $42.98 shipped
-- [Solder](https://www.amazon.com/Kester-83-4000-0000-SN60PB40-Solder-Diameter/dp/B00068IJNQ/ref=as_li_ss_tl?_encoding=UTF8&linkCode=ll1&tag=keebio-20&linkId=872764431470f06683bf23fad9bd2c15&language=en_US) - $3.20
-- [Flush cutters](https://www.amazon.com/Pliers-Electrical-Cutters-Cutting-Diagonal/dp/B0188DHO40/ref=as_li_ss_tl?pf_rd_m=ATVPDKIKX0DER&linkCode=ll1&tag=keebio-20&linkId=36bb31bebc9d51e3f1fbc8f701c87638&language=en_US) - $1.98 shipped
-- [Solder sucker](https://www.amazon.com/OMorc-Desoldering-Solder-Sucker-Length/dp/B01I14V4X8/ref=as_li_ss_tl?s=industrial&linkCode=ll1&tag=keebio-20&linkId=1b842ea0c42919ce3a55b4d286ec9651&language=en_US) - $8.46
-
-
+| Item | Seller/Link | Price |
+| --- | --- | --- |
+| Soldering iron | [Amazon](https://www.amazon.com/dp/B01B4FELB8/ref=as_li_ss_tl?_encoding=UTF8&linkCode=ll1&tag=keebio-20&linkId=49e1e9c1eb856bd709ea5f667885190e&language=en_US) | $42.98 shipped |
+| Solder | [Amazon](https://www.amazon.com/Kester-83-4000-0000-SN60PB40-Solder-Diameter/dp/B00068IJNQ/ref=as_li_ss_tl?_encoding=UTF8&linkCode=ll1&tag=keebio-20&linkId=872764431470f06683bf23fad9bd2c15&language=en_US) | $3.20 |
+| Flush cutters | [Amazon](https://www.amazon.com/Pliers-Electrical-Cutters-Cutting-Diagonal/dp/B0188DHO40/ref=as_li_ss_tl?pf_rd_m=ATVPDKIKX0DER&linkCode=ll1&tag=keebio-20&linkId=36bb31bebc9d51e3f1fbc8f701c87638&language=en_US) | $1.98 shipped |
+| Solder sucker | [Amazon](https://www.amazon.com/OMorc-Desoldering-Solder-Sucker-Length/dp/B01I14V4X8/ref=as_li_ss_tl?s=industrial&linkCode=ll1&tag=keebio-20&linkId=1b842ea0c42919ce3a55b4d286ec9651&language=en_US) | $8.46 |
 
 ### Optional Parts
 - 2u PCB mount MX stabilizers if using 2u keys
