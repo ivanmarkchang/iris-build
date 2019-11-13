@@ -17,6 +17,15 @@ Parts List
 - 54-56 switches - [KBDFans Cherry MX Brown](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $23.40 for 60 switches
 - 54-56 keycaps - [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) - $38
 
+| Item | Seller/Link | Price |
+| --- | --- |
+| Set of Iris Rev. 4 PCBs | [Keebio](https://keeb.io/collections/split-keyboard-parts/products/iris-keyboard-split-ergonomic-keyboard?variant=29480467267678) | $59.99 |
+| Iris case/plates | see options below | N/A |
+| M2 Screws/Standoffs | [Keebio](https://keeb.io/products/m2-screws-and-standoffs?variant=47432051590) | $3.49 |
+| 1 TRRS cable | [Keebio](https://keeb.io/products/trrs-cable?variant=50550149190) | $3.99 |
+| 54-56 switches | [KBDFans Cherry MX Brown](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) | $23.40 for 60 switches |
+| 54-56 keycaps | [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) | $38 |
+
 ### Soldering
 - [Soldering iron](https://www.amazon.com/dp/B01B4FELB8/ref=as_li_ss_tl?_encoding=UTF8&linkCode=ll1&tag=keebio-20&linkId=49e1e9c1eb856bd709ea5f667885190e&language=en_US) - $42.98 shipped
 - [Solder](https://www.amazon.com/Kester-83-4000-0000-SN60PB40-Solder-Diameter/dp/B00068IJNQ/ref=as_li_ss_tl?_encoding=UTF8&linkCode=ll1&tag=keebio-20&linkId=872764431470f06683bf23fad9bd2c15&language=en_US) - $3.20
