@@ -21,7 +21,7 @@ Parts List
 | 1 | M2 Screws/Standoffs | [Keebio](https://keeb.io/products/m2-screws-and-standoffs?variant=47432051590) | $3.49 |
 | 1 | TRRS cable | [Keebio](https://keeb.io/products/trrs-cable?variant=50550149190) | $3.99 |
 | 1 | USB-C cable | already owned | N/A |
-| 54-56 | Switches | [KBDFans Cherry MX Brown](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) | $23.40 |
+| 54-56 | Switches | [NovelKeys](https://novelkeys.xyz/products/cherry-switches?variant=28058371850333) | $25.67 shipped |
 | 54-56 | Keycaps | [KBDFans PBT Blanks](https://kbdfans.com/products/epbt-pbt-blank-ortholinear-keycaps) | $19.90 |
 
 ### Soldering
@@ -51,8 +51,13 @@ Tenting Options
 ---------------
 - [ErgoDox-EZ Tilt/Tent Kit](https://ergodox-ez.com/products/tilt-tent-kit?variant=16101844419) - $40 (shipping included)
 
-Keycaps Options
----------------
+Switch Options
+--------------
+- [NovelKeys](https://novelkeys.xyz/products/cherry-switches?variant=28058371850333) - $3.50/10, $21/60, $4.17 shipping = $25.67 shipped
+- [KBDFans](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $3.90/10, $23.40/60, $5.00 shipping = $28.40 shipped
+
+Keycap Options
+--------------
 - [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) - $38
 - [Amazon DSA](https://www.amazon.com/dp/B07F6FRCW5/ref=twister_B07F6B9HQT?_encoding=UTF8&psc=1) - $43.50
 
