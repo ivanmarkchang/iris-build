@@ -14,7 +14,7 @@ Parts List
 - Iris case/plates (exploring options below)
 - [M2 Screws/Standoffs](https://keeb.io/products/m2-screws-and-standoffs?variant=47432051590) - $3.49
 - [1 TRRS cable](https://keeb.io/products/trrs-cable?variant=50550149190) - $3.99
-- [54-56 switches](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $23.40 for 60 switches
+- 54-56 switches - [KBCFans Cherry MX Brown](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $23.40 for 60 switches
 - 54-56 keycaps - [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) - $38
 
 ### Soldering
