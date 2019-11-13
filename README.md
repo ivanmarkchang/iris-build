@@ -1,6 +1,9 @@
 Ivan's Iris Build Log
 ==================
 
+Inspiration
+-----------
+
 Resources
 ---------
 - [Build guide (Keebio)](https://docs.keeb.io/iris-rev3-build-guide/)
