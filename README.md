@@ -10,11 +10,11 @@ Resources
 Parts List
 ----------
 ### Keyboard Parts
-- [Set of Iris Rev. 4 PCBs](https://keeb.io/collections/split-keyboard-parts/products/iris-keyboard-split-ergonomic-keyboard?variant=29480467267678) - $59.99
+- Set of Iris Rev. 4 PCBs - [Keebio](https://keeb.io/collections/split-keyboard-parts/products/iris-keyboard-split-ergonomic-keyboard?variant=29480467267678) - $59.99
 - Iris case/plates (exploring options below)
-- [M2 Screws/Standoffs](https://keeb.io/products/m2-screws-and-standoffs?variant=47432051590) - $3.49
-- [1 TRRS cable](https://keeb.io/products/trrs-cable?variant=50550149190) - $3.99
-- 54-56 switches - [KBCFans Cherry MX Brown](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $23.40 for 60 switches
+- M2 Screws/Standoffs - [Keebio](https://keeb.io/products/m2-screws-and-standoffs?variant=47432051590) - $3.49
+- 1 TRRS cable - [Keebio](https://keeb.io/products/trrs-cable?variant=50550149190) - $3.99
+- 54-56 switches - [KBDFans Cherry MX Brown](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $23.40 for 60 switches
 - 54-56 keycaps - [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) - $38
 
 ### Soldering
