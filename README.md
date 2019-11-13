@@ -34,32 +34,33 @@ Parts List
 | 1 |Tweezers | already owned | N/A |
 
 ### Optional Parts
-- 2u PCB mount MX stabilizers if using 2u keys
-- Rotary Encoder and Knob
-- Iris Middle Layer
+- ~~2u PCB mount MX stabilizers if using 2u keys~~
+- ~~Rotary Encoder and Knob~~
+- ~~Iris Middle Layer~~
 
 Case/Plates Options
 -------------------
 - [Keebio Stainless Steel Case](https://keeb.io/products/iris-keyboard-case-plates?variant=1822271012894) - $44.99
-- [Keebio Acrylic Clear Case](https://keeb.io/products/iris-keyboard-case-plates?variant=2991652831262) - $24.99
-
-Middle Layer Options
---------------------
-- [u/LurkerMcNoPost designed, compatible with ErgoDox tenting legs](https://www.thingiverse.com/thing:3196585)
-
-Tenting Options
----------------
-- [ErgoDox-EZ Tilt/Tent Kit](https://ergodox-ez.com/products/tilt-tent-kit?variant=16101844419) - $40 (shipping included)
+- [Keebio Acrylic Clear Case](https://keeb.io/products/iris-keyboard-case-plates?variant=2991652831262) - $24.99 (I want this one but it's not in stock. Considering custom fab.)
 
 Switch Options
 --------------
 - [NovelKeys](https://novelkeys.xyz/products/cherry-switches?variant=28058371850333) - $3.50/10, $21/60, $4.17 shipping = $25.67 shipped
-- [KBDFans](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $3.90/10, $23.40/60, $5.00 shipping = $28.40 shipped
+- ~~[KBDFans](https://kbdfans.com/products/cherry-mx-swtich?variant=36019543885) - $3.90/10, $23.40/60, $5.00 shipping = $28.40 shipped~~
 
 Keycap Options
 --------------
-- [KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) - $38
-- [Amazon DSA](https://www.amazon.com/dp/B07F6FRCW5/ref=twister_B07F6B9HQT?_encoding=UTF8&psc=1) - $43.50
+- [KBDFans EPBT](https://kbdfans.com/products/epbt-pbt-blank-ortholinear-keycaps) - $19.90
+- ~~[KBDFans DSA](https://kbdfans.com/collections/dsa-profile/products/dsa-pbt-145keys-keycaps-laser-etched-front-printed-legends?variant=3548870639629) - $38~~
+- ~~[Amazon DSA](https://www.amazon.com/dp/B07F6FRCW5/ref=twister_B07F6B9HQT?_encoding=UTF8&psc=1) - $43.50~~
+
+Middle Layer Options
+--------------------
+- ~~[u/LurkerMcNoPost designed, compatible with ErgoDox tenting legs](https://www.thingiverse.com/thing:3196585)~~
+
+Tenting Options
+---------------
+- ~~[ErgoDox-EZ Tilt/Tent Kit](https://ergodox-ez.com/products/tilt-tent-kit?variant=16101844419) - $40 (shipping included)~~
 
 Custom 3D printing Options
 --------------------------
