@@ -21,7 +21,7 @@ Parts List
 | 1 | M2 Screws/Standoffs | [Keebio](https://keeb.io/products/m2-screws-and-standoffs?variant=47432051590) | $3.49 |
 | 1 | TRRS cable | [Keebio](https://keeb.io/products/trrs-cable?variant=50550149190) | $3.99 |
 | 1 | USB-C cable | already owned | N/A |
-| 54-56 | Switches | [NovelKeys](https://novelkeys.xyz/products/cherry-switches?variant=28058371850333) | $25.67 shipped |
+| 54-56 | Switches | [NovelKeys Brown PCB Mount](https://novelkeys.xyz/products/cherry-switches?variant=28058371850333) | $25.67 shipped |
 | 54-56 | Keycaps | [KBDFans PBT Blanks](https://kbdfans.com/products/epbt-pbt-blank-ortholinear-keycaps) | $19.90 |
 
 ### Soldering
